@@ -1,0 +1,112 @@
+    h1{
+        font-size: 50px;
+
+    }
+    h3{
+        font-size: 25px;
+        
+    }
+    .header{    
+        height: 180px;
+        align-items: baseline;
+        background-color: black;
+        opacity: 1;
+        color: white;    
+        display: flex;
+        justify-content: space-evenly;
+        align-items: baseline;
+        margin: -10px;
+    }
+    .top{
+        background-image:url("images/background.jfif" );
+        font-size: 30px;
+        text-align: center;
+        height: 650px;
+        background-repeat: no-repeat;
+        margin: -50px;
+        background-position: left;
+        background-size: 3600px, 650px;
+        display: grid;
+        place-items: center;
+    }
+
+    a{
+        color:white;
+        text-decoration: none;   
+    }
+
+    .instructions{
+        font-size: 24px;
+        background-color: black;
+        text-align: center;
+        color:white;
+        height:80px;
+        display:flex;
+        align-items: center;
+        justify-content:center;
+        margin: -30px;
+    }
+
+    .camel{
+        background-color: rgb(178, 236, 236);
+        display:flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items:center;
+        align-content: center;
+        border: solid;
+        border-color: black;
+        margin:-30px;
+    }
+
+    .panda{
+        display:flex;
+        background-color: rgb(178, 236, 236);
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items:center;
+        align-content: center;
+        border: solid;
+        border-color: black;
+        margin:-30px;
+    }
+
+    .chameleon{
+        display:flex;
+        background-color: rgb(178, 236, 236);
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items:center;
+        align-content: center;
+        border: solid;
+        border-color: black;
+        margin:-30px;
+    }
+        
+    .teddy{
+        display:flex;
+        background-color: rgb(178, 236, 236);
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items:center;
+        align-content: center;
+        border: solid;
+        border-color: black;
+        margin:-30px;
+    }
+
+    .footer{
+        border: solid;
+        width :2500px;
+        background-color: black;
+        border-color: black;
+        height: 250px;
+        margin:30px;
+        display:flex;
+        justify-content: space-evenly;
+        align-items:center;
+        align-content: center;
+        margin-bottom: -20px;
+        
+        
+    }
